@@ -74,8 +74,8 @@
 
             </tbody>
         </table>
-
         {{ $student->links() }}
+
 
     </div>
     <a href="{{ route('register') }}">
